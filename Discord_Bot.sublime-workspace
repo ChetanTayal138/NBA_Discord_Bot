@@ -1,0 +1,894 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fir",
+				"first_name"
+			],
+			[
+				"last",
+				"last_name"
+			],
+			[
+				"stat",
+				"stat_getter"
+			],
+			[
+				"as",
+				"async"
+			],
+			[
+				"c",
+				"channel"
+			],
+			[
+				"yes",
+				"yest_year"
+			],
+			[
+				"tod",
+				"today_month"
+			],
+			[
+				"today_",
+				"today_month"
+			],
+			[
+				"today",
+				"today_date"
+			],
+			[
+				"toda",
+				"today_date"
+			],
+			[
+				"RE",
+				"Read_card"
+			],
+			[
+				"MI",
+				"MI_OK"
+			],
+			[
+				"mf",
+				"MFRC522_Anticoll"
+			],
+			[
+				"P",
+				"PICC_REQIDL"
+			],
+			[
+				"M",
+				"MIFAREReader"
+			],
+			[
+				"MF",
+				"MFRC522_Request"
+			],
+			[
+				"data",
+				"data_collector"
+			],
+			[
+				"to",
+				"today_game_results"
+			],
+			[
+				"l",
+				"loser_score"
+			],
+			[
+				"loser",
+				"loser_score"
+			],
+			[
+				"winner",
+				"winner_score"
+			],
+			[
+				"winn",
+				"winner_score"
+			],
+			[
+				"lose",
+				"loser_score"
+			],
+			[
+				"win",
+				"winner_score"
+			],
+			[
+				"los",
+				"loser"
+			],
+			[
+				"loser_",
+				"loser_name"
+			],
+			[
+				"fi",
+				"find"
+			],
+			[
+				"game",
+				"game_result"
+			],
+			[
+				"re",
+				"results"
+			],
+			[
+				"sta",
+				"standings"
+			],
+			[
+				"we",
+				"west"
+			],
+			[
+				"eas",
+				"east_team_record"
+			],
+			[
+				"some",
+				"some2"
+			],
+			[
+				"ea",
+				"east_team_names"
+			],
+			[
+				"e",
+				"east_table"
+			],
+			[
+				"team",
+				"team_names"
+			],
+			[
+				"tea",
+				"team_names"
+			],
+			[
+				"wes",
+				"west_table"
+			],
+			[
+				"w",
+				"west_standings"
+			],
+			[
+				"find",
+				"findAll"
+			],
+			[
+				"west",
+				"west_content"
+			],
+			[
+				"fri",
+				"first_name"
+			],
+			[
+				"url",
+				"url_checker"
+			],
+			[
+				"firs",
+				"first_name"
+			],
+			[
+				"Stat",
+				"Stats_Getter"
+			],
+			[
+				"stats",
+				"stats_page_opener"
+			],
+			[
+				"name",
+				"name_writer"
+			],
+			[
+				"user",
+				"user_deleter"
+			],
+			[
+				"PRINT",
+				"print"
+			],
+			[
+				"f",
+				"file_name"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"m",
+				"my_dict"
+			],
+			[
+				"uid",
+				"uid_list"
+			],
+			[
+				"ui",
+				"uid_var"
+			],
+			[
+				"u",
+				"uid_var"
+			],
+			[
+				"app",
+				"appending_content"
+			],
+			[
+				"new",
+				"new_content"
+			],
+			[
+				"tw",
+				"tweet_getter"
+			],
+			[
+				"pi",
+				"points_per_game"
+			],
+			[
+				"st",
+				"stats_printer"
+			],
+			[
+				"fin",
+				"findAll"
+			],
+			[
+				"stt",
+				"stats_row"
+			],
+			[
+				"s",
+				"stats_row"
+			],
+			[
+				"cu",
+				"current_height"
+			],
+			[
+				"TREE",
+				"tree"
+			],
+			[
+				"rig",
+				"right_child"
+			],
+			[
+				"_",
+				"_height"
+			],
+			[
+				"se",
+				"search"
+			],
+			[
+				"VA",
+				"value"
+			],
+			[
+				"TR",
+				"tree"
+			],
+			[
+				"NO",
+				"newNode"
+			],
+			[
+				"soup",
+				"soup"
+			],
+			[
+				"get",
+				"stat_getter"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"sp",
+				"soup_object"
+			],
+			[
+				"ge",
+				"get_stats"
+			],
+			[
+				"sea",
+				"search_button"
+			],
+			[
+				"pla",
+				"player1"
+			],
+			[
+				"from",
+				"from_string"
+			],
+			[
+				"p",
+				"pyautogui"
+			],
+			[
+				"di",
+				"display_width"
+			],
+			[
+				"dis",
+				"display_height"
+			],
+			[
+				"d",
+				"display_width"
+			],
+			[
+				"car",
+				"carImg"
+			],
+			[
+				"a",
+				"add_before_node"
+			],
+			[
+				"pre",
+				"previous_node"
+			],
+			[
+				"cur",
+				"current_node"
+			],
+			[
+				"curr",
+				"current_node"
+			],
+			[
+				"ad",
+				"add_after_node"
+			],
+			[
+				"nee",
+				"next_node"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"next",
+				"next_node"
+			],
+			[
+				"pe",
+				"prev"
+			],
+			[
+				"print",
+				"print_list"
+			],
+			[
+				"curre",
+				"current_position"
+			],
+			[
+				"Link",
+				"Linked_List"
+			],
+			[
+				"inse",
+				"insert_at_position"
+			],
+			[
+				"pritn",
+				"print_list"
+			],
+			[
+				"node",
+				"node_3"
+			],
+			[
+				"ins",
+				"insert_at_position"
+			],
+			[
+				"Line",
+				"Linked_List"
+			],
+			[
+				"ri",
+				"right_child"
+			],
+			[
+				"lef",
+				"left_height"
+			],
+			[
+				"V",
+				"value"
+			],
+			[
+				"t",
+				"tree"
+			],
+			[
+				"in",
+				"insert"
+			],
+			[
+				"ran",
+				"randint"
+			],
+			[
+				"r",
+				"right_child"
+			],
+			[
+				"it",
+				"items"
+			],
+			[
+				"pr",
+				"print_stack"
+			],
+			[
+				"de",
+				"removeDuplicates"
+			],
+			[
+				"pis",
+				"position"
+			],
+			[
+				"en",
+				"entered"
+			],
+			[
+				"position",
+				"position"
+			],
+			[
+				"n",
+				"next"
+			],
+			[
+				"newN",
+				"newNode3"
+			],
+			[
+				"Linek",
+				"LinkedList"
+			],
+			[
+				"HEA",
+				"head"
+			],
+			[
+				"head",
+				"head"
+			],
+			[
+				"le",
+				"list_length"
+			],
+			[
+				"del",
+				"deleteAt"
+			],
+			[
+				"None",
+				"None"
+			],
+			[
+				"L",
+				"LinkedList"
+			],
+			[
+				"prin",
+				"print_list"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Discord_Bot.py",
+			"settings":
+			{
+				"buffer_size": 21302,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Results_Retriever.py",
+			"settings":
+			{
+				"buffer_size": 1349,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Standings_Retriever.py",
+			"settings":
+			{
+				"buffer_size": 2261,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Stats_Getter.py",
+			"settings":
+			{
+				"buffer_size": 4893,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Contr",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Chetan Tayal/Desktop/Languages/Python/MyProjects/NBA_Discord_Bot"
+	],
+	"file_history":
+	[
+		"/C/Users/Chetan Tayal/Desktop/Languages/Python/MyCodes/Antariksh_Login/MFRC522_setup.py",
+		"/C/Users/Chetan Tayal/Desktop/Languages/Python/MyCodes/Antariksh_Login/Combine_everything.py",
+		"/C/Users/Chetan Tayal/Desktop/Languages/Python/MyCodes/Antariksh_Login/GoogleSheetsInit.py",
+		"/C/Users/Chetan Tayal/Desktop/Languages/Python/MyCodes/Antariksh_Login/File_Handling_Login.py",
+		"/C/Users/Chetan Tayal/Desktop/Languages/Python/MyCodes/Antariksh_Login/final_names.txt",
+		"/C/Users/Chetan Tayal/Desktop/Languages/Python/MyCodes/Antariksh_Login/names_file_creater.py",
+		"/C/Users/Chetan Tayal/Downloads/Combine_everything (1).py",
+		"/C/Users/Chetan Tayal/Desktop/Languages/Python/MyCodes/Antariksh_Login/File_handler.py",
+		"/C/Users/Chetan Tayal/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Chetan Tayal/Desktop/Languages/Python/MyProjects/NBA_Discord_Bot/Standings_Retriever.py",
+		"/C/Users/Chetan Tayal/Desktop/Languages/Python/MyProjects/NBA_Discord_Bot/Stats_Getter.py",
+		"/C/Users/Chetan Tayal/Desktop/Languages/Python/MyProjects/NBA_Discord_Bot/Discord_Bot.py",
+		"/C/Users/Chetan Tayal/Desktop/Languages/Python/MyProjects/NBA_Discord_Bot/Results_Retriever.py",
+		"/C/Users/Chetan Tayal/Desktop/Languages/Python/MyProjects/NBA_Discord_Bot/Discord_Bot.sublime-project",
+		"/C/Users/Chetan Tayal/AppData/Roaming/Sublime Text 3/Packages/sublime-github/GitHub.sublime-settings",
+		"/C/Users/Chetan Tayal/Desktop/MyProjects/NBA_Discord_Bot/Discord_Bot.py",
+		"/C/Users/Chetan Tayal/Desktop/MyProjects/NBA_Discord_Bot/Results_Retriever.py",
+		"/C/Users/Chetan Tayal/Desktop/MyProjects/NBA_Discord_Bot/Standings_Retriever.py",
+		"/C/Users/Chetan Tayal/Desktop/MyProjects/NBA_Discord_Bot/Stats_Getter.py",
+		"/C/Users/Chetan Tayal/Desktop/MyProjects/NBA_Discord_Bot/stats_retriever.py",
+		"/C/Users/Chetan Tayal/Desktop/final_names.txt",
+		"/C/Users/Chetan Tayal/Desktop/MyCodes/Antariksh_Login/GoogleSheetsInit.py",
+		"/C/Users/Chetan Tayal/Desktop/MyCodes/Antariksh_Login/MFRC522_setup.py",
+		"/C/Users/Chetan Tayal/Desktop/MyCodes/Antariksh_Login/File_Handling_Login.py",
+		"/C/Users/Chetan Tayal/Desktop/example.py",
+		"/C/Users/Chetan Tayal/Desktop/MyCodes/Antariksh_Login/Combine_everything.py",
+		"/C/Users/Chetan Tayal/Downloads/ALS Test (1).json",
+		"/C/Users/Chetan Tayal/Desktop/MyCodes/Antariksh_Login/File_handler.py",
+		"/C/Users/Chetan Tayal/Desktop/MyCodes/Antariksh_Login/names_file_creater.py",
+		"/C/Users/Chetan Tayal/Desktop/MyProjects/Soldier_Game.py",
+		"/C/Users/Chetan Tayal/Desktop/MyProjects/LinearRegressionModel.py",
+		"/C/Users/Chetan Tayal/Desktop/MyProjects/Macro_Manager.py",
+		"/C/Users/Chetan Tayal/Desktop/MyCodes/Tkinter.py",
+		"/C/Users/Chetan Tayal/Desktop/MyCodes/Combine_everything.py",
+		"/C/Users/Chetan Tayal/Desktop/MyProjects/Stats_Getter.py",
+		"/C/Users/Chetan Tayal/Desktop/MyProjects/Standings_Retriever.py",
+		"/C/Users/Chetan Tayal/Desktop/MyProjects/Results_Retriever.py",
+		"/C/Users/Chetan Tayal/Desktop/MyProjects/Discord_Bot.py",
+		"/C/Users/Chetan Tayal/Desktop/MyProjects/stats_retriever.py",
+		"/C/Users/Chetan Tayal/Desktop/MyCodes/PyAutoGui.py",
+		"/C/Users/Chetan Tayal/Desktop/MyCodes/google_sheets.py",
+		"/C/Users/Chetan Tayal/Desktop/MyCodes/names_file_creater.py",
+		"/C/Users/Chetan Tayal/Desktop/MyCodes/RFID_logic.py",
+		"/C/Users/Chetan Tayal/Downloads/Combine_everything.py",
+		"/C/Users/Chetan Tayal/Downloads/google_sheets.py",
+		"/C/Users/Chetan Tayal/Downloads/RFID_logic.py",
+		"/C/Users/Chetan Tayal/Desktop/MyProjects/something.c",
+		"/C/Users/Chetan Tayal/Desktop/MyCodes/web_scraping.py",
+		"/C/Users/Chetan Tayal/Desktop/MyCodes/special_metacharacters.py",
+		"/C/Users/Chetan Tayal/Desktop/MyCodes/BinarySearchTrees.py",
+		"/C/Users/Chetan Tayal/Desktop/MyCodes/classes.py",
+		"/C/Users/Chetan Tayal/Desktop/MyCodes/PyGameTutorial.py",
+		"/C/Users/Chetan Tayal/Desktop/MyCodes/DoublyLinkedList.py",
+		"/C/Users/Chetan Tayal/Desktop/MyCodes/linkedlist.py",
+		"/C/Users/Chetan Tayal/Desktop/MyCodes/pygame.py",
+		"/C/Users/Chetan Tayal/Desktop/MyCodes/regex_basics.py",
+		"/C/Users/Chetan Tayal/Desktop/MyCodes/Queue.py",
+		"/C/Users/Chetan Tayal/Desktop/MyCodes/stacks.py",
+		"/C/Users/Chetan Tayal/Desktop/Data/example.py",
+		"/C/Users/Chetan Tayal/Desktop/MyCodes/character_classes.py",
+		"/C/Users/Chetan Tayal/Desktop/Data/MyProjects/LinearRegressionModel.py"
+	],
+	"find":
+	{
+		"height": 40.8
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Discord_Bot.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1015,
+								1015
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 552.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Results_Retriever.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1349,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1349,
+								1349
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Standings_Retriever.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								165,
+								165
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Stats_Getter.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4893,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4772,
+								4772
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2371.2,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.4
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 113.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "Discord_Bot.sublime-project",
+	"replace":
+	{
+		"height": 74.4
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 134.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
