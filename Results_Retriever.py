@@ -45,9 +45,9 @@ def game_results(month , date , year):
         loser_score = loser_score.text
         
     
-        results.append(f"{winner_name.text} {winner_score} - {loser_name.text} {loser_score}")
+        results.append(f"{winner_name.text.upper()} {winner_score}   -   {loser_name.text.upper()} {loser_score}")
         
-    return '\n'.join(results)
+    return '\n\n'.join(results)
 
 
 #print(game_results(year , month , date))
