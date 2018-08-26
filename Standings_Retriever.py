@@ -43,16 +43,6 @@ def standings_getter():
         east_team_names.append(names.text[:3])
 
 
-# # for row in west_rows:
-# #     some1 = row.find('td' , {"data-stat":"wins"})
-# #     some2 = row.find('td' , {"data-stat":"losses"})
-# #     west_team_record.append([some1.text , some2.text])
-
-
-# for row in east_rows:
-#     some1 = row.find('td' , {"data-stat":"wins"})
-#     some2 = row.find('td' , {"data-stat":"losses"})
-#     east_team_record.append([some1.text , some2.text])
 
 
 def standings(conference):
