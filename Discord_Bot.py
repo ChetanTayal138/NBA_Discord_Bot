@@ -47,7 +47,7 @@ async def on_message(message):
      
 
     if message.content.startswith('!commands'):
-        await client.send_message(channel , '<< !stats firstname lastname >> - Regular Season Stats Of Player\n'
+        await client.send_message(channel , '<< !stats firstname lastname rs/ra/ps/pa>> - Stats Of Player\n'
                                             '<< !twit firstname lastname >>   - Twitter Account Of Player\n'
                                             '<< !open firstname lastname >> - Open Stats Page Of Player\n'
                                             '<< !standings conference >> - Display Current Standings of Conference\n'
