@@ -72,11 +72,3 @@ def standings(conference):
         return '\n'.join(content)
         
 
-#print(east_team_names)
-#print(east_team_record)
-#print(west_team_names)
-#print(west_team_record)
-
-
-#standings("west")
-#standings("east")
